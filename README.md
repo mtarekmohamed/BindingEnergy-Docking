@@ -67,13 +67,6 @@ transcription factors, viral proteins, and regulatory signaling proteins.
 
 ---
 
-## Repository Organization
-
-Large input/output files (trajectories, grids, and intermediate models) are not
-included.
-
----
-
 ## Intended Use
 
 This repository is intended for:
