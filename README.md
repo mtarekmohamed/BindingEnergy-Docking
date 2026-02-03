@@ -1,5 +1,3 @@
-# Docking & Free Energy Calculations
-
 # Docking and Binding Free Energy Calculations
 
 This repository contains computational workflows for **molecular docking,
