@@ -1,1 +1,1 @@
-# Docking-Binding-Free-Energy-Calculations
+# Docking & Free Energy Calculations
